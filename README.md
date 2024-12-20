@@ -2,7 +2,7 @@
 
 ![Coffee sales](https://github.com/user-attachments/assets/cc8c4aa2-93b2-43db-8948-84e75d83075d)
 
-# Dataset
+## Dataset
 The dataset is stored in an Excel file named offeeOrdersData.xlsx. 
 
 The uploaded Excel file contains the following sheets:
@@ -11,7 +11,7 @@ orders
 customers
 products
 
-# Orders Sheet
+## **Orders Sheet**
 Columns:
 Order ID: Unique identifier for the order.
 Order Date: Date of the order.

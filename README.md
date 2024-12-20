@@ -13,9 +13,9 @@ The uploaded Excel file contains the following sheets:
 
 # **Orders Sheet**
 Columns:
-Order ID: Unique identifier for the order.
-Order Date: Date of the order.
-Customer ID: Unique identifier for the customer.
++ Order ID: Unique identifier for the order.
+* Order Date: Date of the order.
+- Customer ID: Unique identifier for the customer.
 Product ID: Unique identifier for the product.
 Quantity: Quantity of the product ordered.
 Customer Name, Email, Country, Coffee Type, Roast Type, Size, Unit Price, Sales

@@ -1,8 +1,8 @@
- Coffee_orders
+# Coffee_orders :coffee:
 
 ![Coffee sales](https://github.com/user-attachments/assets/cc8c4aa2-93b2-43db-8948-84e75d83075d)
 
-## Dataset
+# Dataset
 The dataset is stored in an Excel file named offeeOrdersData.xlsx. 
 
 The uploaded Excel file contains the following sheets:
@@ -11,7 +11,7 @@ orders
 customers
 products
 
-## **Orders Sheet**
+# **Orders Sheet**
 Columns:
 Order ID: Unique identifier for the order.
 Order Date: Date of the order.
@@ -20,7 +20,7 @@ Product ID: Unique identifier for the product.
 Quantity: Quantity of the product ordered.
 Customer Name, Email, Country, Coffee Type, Roast Type, Size, Unit Price, Sales
 
-# Customers Sheet
+## Customers Sheet
 Columns:
 Customer ID: Unique identifier for the customer.
 Customer Name: Full name of the customer.
@@ -32,7 +32,7 @@ Country: Customer's country.
 Postcode: Postal code.
 Loyalty Card: Whether the customer has a loyalty card (Yes/No).
 
-# Products Sheet
+## Products Sheet
 Columns:
 Product ID: Unique identifier for the product.
 Coffee Type: Type of coffee (e.g., Arabica, Robusta).

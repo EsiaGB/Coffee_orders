@@ -7,9 +7,9 @@ The dataset is stored in an Excel file named offeeOrdersData.xlsx.
 
 The uploaded Excel file contains the following sheets:
 
-orders
-customers
-products
+- orders
+- customers
+- products
 
 # **Orders Sheet**
 Columns:

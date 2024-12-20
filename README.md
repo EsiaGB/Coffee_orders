@@ -7,9 +7,9 @@ The dataset is stored in an Excel file named offeeOrdersData.xlsx.
 
 The uploaded Excel file contains the following sheets:
 
-- orders
-- customers
-- products
+orders\
+customers\
+products
 
 # **Orders Sheet**
 Columns:
@@ -48,7 +48,7 @@ Data Cleaning: Identify and remove duplicates, standardize categorical data\
 Pivot Tables: Utilize pivot tables to summarize and analyze data for visualization\
 Visualizations: Build visualizations using charts and slicers to represent key insights, such as total sales over time, top 5 customers and sales by country\
 Dashboard Creation: Copy visualizations onto a dashboard sheet\
-Chart Customization: Adjust chart titles, axis labels, and formatting\
+Chart Customization: Adjust chart titles, axis labels, and formatting
 
 # Key Features
-Pivot tables, XLOOKUP, INDEX-MATCH, IF statements and conditional formatting\
+Pivot tables, XLOOKUP, INDEX-MATCH, IF statements and conditional formatting

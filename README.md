@@ -44,11 +44,11 @@ Columns:
 
 
 # Steps in the Project
-Data Cleaning: Identify and remove duplicates, standardize categorical data\
-Pivot Tables: Utilize pivot tables to summarize and analyze data for visualization\
+Data Cleaning: Identify and remove duplicates, standardise categorical data\
+Pivot Tables: Utilise pivot tables to summarise and analyse data for visualisation\
 Visualizations: Build visualizations using charts and slicers to represent key insights, such as total sales over time, top 5 customers and sales by country\
-Dashboard Creation: Copy visualizations onto a dashboard sheet\
-Chart Customization: Adjust chart titles, axis labels, and formatting
+Dashboard Creation: Copy visualisations onto a dashboard sheet\
+Chart Customisation: Adjust chart titles, axis labels, and formatting
 
 # Key Features
 Pivot tables, XLOOKUP, INDEX-MATCH, IF statements and conditional formatting
